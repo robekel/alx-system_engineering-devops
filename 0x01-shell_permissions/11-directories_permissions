@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod drws--x--x ./*
+chmod -R a+dx ./*
